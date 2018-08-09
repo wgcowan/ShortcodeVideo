@@ -1,7 +1,3 @@
-/**
- *  @author Boris Searles (protofunc.com)
- */
-
 function getFormattedTimeString(total_sec) {
 	if (total_sec.toString().indexOf(":") == -1) {
 	var timeString = "";
